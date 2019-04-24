@@ -18,6 +18,10 @@ def update_dtypes(df):
     df.set_index('date', inplace=True)
     return df
 
+def add_minutes_active_column(df):
+    df['minutes_activity'] = df.minutes_lightly_active + df.minutes_fairly_active + df.minutes_very_active
+    return df
+
 
 
 
