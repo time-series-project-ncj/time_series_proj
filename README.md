@@ -5,3 +5,15 @@ https://github.com/time-series-project-ncj/time_series_proj/blob/master/time-ser
 
 Slides found at the following link:
 https://github.com/time-series-project-ncj/time_series_proj/blob/master/fitbit_dunn_garza_hackney_25Apr19_FINAL_FINAL.pptx
+
+
+Predictions csv file:
+https://github.com/time-series-project-ncj/time_series_proj/blob/master/fitbit_preds.csv
+
+
+Acquire file:
+https://github.com/time-series-project-ncj/time_series_proj/blob/master/acquire.py
+
+Prepare file:
+https://github.com/time-series-project-ncj/time_series_proj/blob/master/prepare.py
+
